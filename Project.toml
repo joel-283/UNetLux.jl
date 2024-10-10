@@ -1,0 +1,9 @@
+name = "UNetLux"
+uuid = "68d120cb-d72b-434f-9054-6f40d1a599fa"
+authors = ["Joel Gates <joel.gates.283@gmail.com>"]
+version = "0.1.0"
+
+
+[deps]
+Lux = "b2108857-7c20-44ae-9111-449ecde12c47"
+LuxCUDA = "d0bbae9a-e099-4d5b-a835-1c6931763bda"
